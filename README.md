@@ -3,10 +3,10 @@
 ## Identitas Diri 
 | Nama Lengkap | NIM | Program Studi | Cluster | 
 |--------------|-----|---------------|---------| 
-| [Nama Lengkap] | [NIM] | [Program Studi] | [Nomor Cluster] | 
+| [Valeska Natasha Ranteallo] | [265150207111034] | [Teknik Informatika] | [16] | 
 
 ## Kesan Pesan INTRIVIA Sejauh Ini 
-[Tulis kesan dan pesan kamu tentang INTRIVIA 2026 di sini] 
+[Osdep mantap tongan] 
 
-## Kesan Pesan Cluster [Nomor Cluster] Sejauh Ini 
-[Tulis kesan dan pesan kamu tentang cluster kamu di sini]
+## Kesan Pesan Cluster 16 Sejauh Ini 
+[Orang orangnya baik baik, kakaknya fasilnya baik banget selalu bersedia ngebantu kalau aku ngak bisa login web intrivia]
