@@ -12,4 +12,4 @@
 [Orang orangnya baik baik, kakaknya fasilnya baik banget selalu bersedia ngebantu kalau aku ngak bisa login web intrivia]
 
 ## Harapan Kuliah
-[Kuliah lancar, pemasukan lebih banyak  dari pengeluaran, gftyihvv bisa ngatur waktu, nilai bagus] 
+[hai]
